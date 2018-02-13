@@ -1,0 +1,39 @@
+body{
+	background-image: url("https://lh3.googleusercontent.com/wdByjCrvMZlL4VCWxgWP6WFgLxyzJly07Krzq2Y4-om71tIXvaw3gcG_zDs3coTPtDaDKTa-TYKyL3SCzJzZd4WWwlWhaxVCTYlLj7LZKJ7Gbdv76RvSbAvpkuyt9LoEbQkYNkMiscUa0QTZJRWbtkuyGPnOnmiPIEbmNyZ-RAKLnYK_XeVQKuHNBkPLbLCy7CZ3PvVFIuZS7EKHXaNSVzT5ySjPGl3U3IwcEmmJgl8XQS4MXAsr-Mu9K3asnwhU_20jXyyvzHkAHdW-G5_64VyGC9CQzTcdigZsmnv08xKiGQI0mvHv517lGjCN78NXajIlfw3rodmRKNEd2UuMNel5lzpQ2LlmgDRpuBI7INqLaXg8cwGr9nJLjExA6V4G8Y1V-sKGgX7XtbctIzsJygJNAxkGA5QTdpR-IFtS7D-ApVYaFaezENih5be5JPHMaA8cyjoK0AfKrEMFX_qWg9XRSaWM0lA39WJP6JVjqbvnFbNg10Inzy0xnwTlh54S_9f8CjUFc2s2rnx9Tqxn1481fhL3rmdomX8l388tJZtPv_wb-LFSQNuNtnNO73HqGiW2kHAcNGReMFqdeF_LRP-StbFLpKMkCy9auaE=w1066-h604-no");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-color: yellow;
+	background-origin: content-box;
+	background-position: center;
+	background-size: 100%;
+	color: white;
+}
+#thirdDiv{
+	height: 600px;
+	width: 500px;
+	background-color: cornflowerblue;
+	padding: 50px;
+	border: thick double green;
+	margin: 0 auto;
+
+}
+
+.divClass{
+	text-align: center;
+}
+
+.spanId{
+	font-size: 18px;
+	margin: 50px; 
+}
+
+h1{
+	color: cornflowerblue;
+}
+
+img{
+	width: 400px;
+	margin: 0 auto;
+
+}
+
