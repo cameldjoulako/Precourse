@@ -1,0 +1,34 @@
+1- variables
+
+Variables allow us to retain values ​​that will be used later. for example, if you want to calculate the average of your class, you must first add all the materials and put the result somewhere and after the used to calculate the average. So the calculated result that we have kept is a variable.
+to declare a variable we do: letVariableName = ValueAccessed
+
+Strings
+strings are a type of variable. It allows us to save value as a string (names for example)
+Example of string: let name = 'Camel Djoulako'
+
+2- Functions (arguments, return)
+a function is a set of operations (instructions) that allows you to perform a task.
+for example if we want to conceal the square of a number we can use the functions to do it.
+To write a function one needs some arguments (o no).
+these arguments will be treated in the body of the function.
+Finally, a function returns a result.
+example
+function square (number) {
+  let car = number * number
+  return car;
+}
+
+
+3- if statements
+ The if statement is used to test values.
+for example when we write a function, we can check the age
+Exemple: 
+if (age  = = 5){
+  console.log('it's a child')
+}
+
+
+4- Boolean values ​​(true, false)
+it's another type of data that can tell if a value is true or false
+Exemple: LearnJavaScript = true;
