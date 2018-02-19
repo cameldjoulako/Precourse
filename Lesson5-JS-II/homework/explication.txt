@@ -1,0 +1,11 @@
+for
+It's a loop. it allows us to repeat a number of instructions (elements) several times. example if we want to say hello many times we use for
+
+  &&
+Call again and, It is an operator that allows to make conditions during a test. && is only true if both conditions are true (left and right conditions)
+
+||
+Call again or, it is an operator to test 2 elements in a condition. if one of the 2 conditions is verified then || is right
+
+  !
+Still call not, this is an operator of negation. It is used to say no
